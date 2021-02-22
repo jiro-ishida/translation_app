@@ -5,4 +5,4 @@ The app will create an audio file to read out the translated text. The user can 
 ![Overview Image](https://github.com/jiro-ishida/translation_app/blob/main/screen.JPG)
 
 
-![Alt Text]()
+![Alt Text](https://gyazo.com/6d324dd90dece6e31a93942236ab5b16)

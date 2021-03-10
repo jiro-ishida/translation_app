@@ -2,7 +2,7 @@
 
 import streamlit as st
 import datetime as dt
-from gtts import gTTS
+from gtts import *
 import speech_recognition as sr 
 from google_trans_new import google_translator
 from PIL import Image
